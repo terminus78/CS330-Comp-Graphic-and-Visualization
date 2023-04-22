@@ -1,0 +1,11 @@
+﻿  Source.cpp
+D:\SNHU\CS-330\Milestone_3_Bullet\Milestone_3_Bullet\Source.cpp(295,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\SNHU\CS-330\Milestone_3_Bullet\Milestone_3_Bullet\Source.cpp(421,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\SNHU\CS-330\Milestone_3_Bullet\Milestone_3_Bullet\Source.cpp(422,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\SNHU\CS-330\Milestone_3_Bullet\Milestone_3_Bullet\Source.cpp(426,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\SNHU\CS-330\Milestone_3_Bullet\Milestone_3_Bullet\Source.cpp(427,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\SNHU\CS-330\Milestone_3_Bullet\Milestone_3_Bullet\Source.cpp(429,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\SNHU\CS-330\Milestone_3_Bullet\Milestone_3_Bullet\Source.cpp(430,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\SNHU\CS-330\Milestone_3_Bullet\Milestone_3_Bullet\Source.cpp(440,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\SNHU\CS-330\Milestone_3_Bullet\Milestone_3_Bullet\Source.cpp(462,8): warning C4101: 'UVScaleLoc': unreferenced local variable
+  Milestone_3_Bullet.vcxproj -> D:\SNHU\CS-330\Milestone_3_Bullet\Debug\Milestone_3_Bullet.exe
